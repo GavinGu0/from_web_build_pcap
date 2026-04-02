@@ -11,8 +11,8 @@ import platform
 # ============ 网络配置 ============
 # Windows WiFi 网络接口名称
 # pyshark 需要使用完整的 NPF 设备路径，而不是友好名称
-# 从日志中找到的接口：\Device\NPF_{26692EFF-0D71-4060-A5F5-99C04ADBCF82} = WLAN 5
-NETWORK_INTERFACE = r"\Device\NPF_{26692EFF-0D71-4060-A5F5-99C04ADBCF82}"
+# 从日志中找到的接口：\Device\网卡名 = WLAN 5
+NETWORK_INTERFACE = r"\Device\网卡名"
 
 # ============ 文件路径配置 ============
 # 输入文件（你需要手动创建这个文件）
