@@ -338,7 +338,7 @@ MIT License
 
 ## 👥 作者
 
-AI Assistant
+GavinGu0
 
 ## 🙏 致谢
 
